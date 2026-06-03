@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fetch_Wipro_API", "Feach_Wipro_API\Fetch_Wipro_API.csproj", "{AA47143E-CD2B-4D34-9BF4-C5774F1A63FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA47143E-CD2B-4D34-9BF4-C5774F1A63FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA47143E-CD2B-4D34-9BF4-C5774F1A63FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA47143E-CD2B-4D34-9BF4-C5774F1A63FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA47143E-CD2B-4D34-9BF4-C5774F1A63FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF7368EF-E0B5-4898-9960-BAB53C3F2D06}
+	EndGlobalSection
+EndGlobal
